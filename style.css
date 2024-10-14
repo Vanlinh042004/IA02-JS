@@ -1,0 +1,14 @@
+form {
+  background-color: rgba(215, 235, 197, 0.512);
+}
+
+h2,
+form {
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
